@@ -4,18 +4,6 @@ This is a simple example of a Markdown file. Markdown is a lightweight markup la
 
 ## Text Formatting
 
-You can format text in various ways:
-
-- **Bold**: **This text is bold**.
-- *Italic*: *This text is italic*.
-- ~~Strikethrough~~: ~~This text is strikethrough~~.
-
-## Lists
-
-You can create lists:
-
-### Unordered List
-- Item 1
 - Item 2
   - Sub-item 1
   - Sub-item 2
